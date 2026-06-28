@@ -1,3 +1,4 @@
+
 # Simple Java Docker Application
 
 A basic Java application containerized with Docker that prints the current date and time.
