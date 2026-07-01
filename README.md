@@ -22,7 +22,7 @@ To run the container and see the output:
 
 ```bash
 docker run --rm simple-java-app
-```
+``` 
 
 ## Code Explanation
 
